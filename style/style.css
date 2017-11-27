@@ -1,0 +1,53 @@
+
+.text{
+    margin: 20px 0;
+    width: 75%;
+    display: inline-block;
+   
+}
+.text h1{
+    text-transform: uppercase;
+    color: black;
+    font-family: sans-serif;
+    
+}
+.text p{
+    color: gray;
+    font-family: sans-serif;
+}
+.text img{
+    height: 135%;
+}
+.menu{
+  
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+}
+.menu h2{
+    padding: 5%;
+    text-transform: uppercase;
+    color: gray;
+    font-family: sans-serif;
+    width: 70%;
+}
+.menu h3{
+    line-height: 1.5;
+    margin-left: 3%;
+    color: gray;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.menu input{
+    background-color: grey;
+    color: orange;
+    border: 0px solid black;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+.inline{
+    display: inline-block;
+    width: 25%;
+}
